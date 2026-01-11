@@ -90,11 +90,3 @@ Press arrow keys to start playing
 👨‍💻 Author
 
 Sandip Kumar jha(https://github.com/sandip-kumar-jha/Classic-Snake-Game)
-
-✅ Snake Game
-
-✅ Tetris Game
-
-✅ Clean README
-
-✅ GitHub ready repo
